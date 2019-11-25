@@ -1,3 +1,10 @@
+#EXTM3U url="https://github.com/clone83/listaswiseplay.com/edit/master/movistar.m3u"
+
+#EXTINF:-1, tvg-logo="https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",  Lista exclusiva de ListasWiseplay.com
+http://listaswiseplay.com
+
+#EXTINF:-1, tvg-logo="https://listaswiseplay.com/wp-content/uploads/2018/01/cropped-listas-wiseplay-logo.png",  Telegram
+http://listaswiseplay.com
 #EXTINF:-1,SERIES HD
 http://plexonline.club:25461/live/activadorx24/activadorx24/1905.ts
 #EXTINF:-1,VIAJAR HD
